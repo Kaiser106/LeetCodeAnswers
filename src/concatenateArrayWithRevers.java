@@ -1,4 +1,4 @@
-public class concatenateArrayWithRevers {
+void main() {
 
     class Solution {
         public int[] concatWithReverse(int[] nums) {
